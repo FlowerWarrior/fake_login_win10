@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fake_login_win10/static/css/main.2d61edf3.chunk.css",
+    "main.js": "/fake_login_win10/static/js/main.919500b8.chunk.js",
+    "main.js.map": "/fake_login_win10/static/js/main.919500b8.chunk.js.map",
+    "runtime-main.js": "/fake_login_win10/static/js/runtime-main.e37007f8.js",
+    "runtime-main.js.map": "/fake_login_win10/static/js/runtime-main.e37007f8.js.map",
+    "static/js/2.fb813915.chunk.js": "/fake_login_win10/static/js/2.fb813915.chunk.js",
+    "static/js/2.fb813915.chunk.js.map": "/fake_login_win10/static/js/2.fb813915.chunk.js.map",
+    "index.html": "/fake_login_win10/index.html",
+    "static/css/main.2d61edf3.chunk.css.map": "/fake_login_win10/static/css/main.2d61edf3.chunk.css.map",
+    "static/js/2.fb813915.chunk.js.LICENSE.txt": "/fake_login_win10/static/js/2.fb813915.chunk.js.LICENSE.txt",
+    "static/media/background.1befc03c.jpg": "/fake_login_win10/static/media/background.1befc03c.jpg",
+    "static/media/user.42605f35.png": "/fake_login_win10/static/media/user.42605f35.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e37007f8.js",
+    "static/js/2.fb813915.chunk.js",
+    "static/css/main.2d61edf3.chunk.css",
+    "static/js/main.919500b8.chunk.js"
+  ]
+}
